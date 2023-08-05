@@ -28,7 +28,7 @@ export class Home extends Component {
             <div className="board">
                 <div className='grid'>
                     <div>
-                        <h2 className='open'>Open</h2>
+                        <h3 className='open'>Open</h3>
                         <p>Mon - Fri <span><b>10:00am - 9:00pm</b></span></p>
                         <p>sat - sun <span><b>closed</b></span></p>
                     </div>

@@ -429,6 +429,10 @@ button{
     font-size: 0.9em;
   }
 
+  .grid div h3{
+    margin-top: 3vh;
+  }
+
   .page2{
     margin-top: 20vh;
     font-size: 1em;
