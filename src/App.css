@@ -409,11 +409,13 @@ button{
     display: block;
     height: 20%;
     top: -1.6vh;
+    right: 2vw;
   }
 
   .grid div{
     width: 90%;
     height: 100%;
+    font-size: 0.9em;
   }
 
   .page2{
@@ -433,6 +435,10 @@ button{
   .page2 div{
     color: #fff;
     width: 100%;
+  }
+
+  .page2 div h1{
+    color: orange;
   }
 
   .packages{
